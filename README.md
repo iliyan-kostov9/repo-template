@@ -12,10 +12,6 @@ TODO: Give a short introduction of your project. Let this section explain the ob
 1. Installation process
 Create virtual environment and install dependencies:
 
-```bash
-python3 -m venv .venv source .venv/bin/activate pip install --upgrade pip && pip install pip-tools pip-compile --output-file=requirements.txt requirements.in python -m pip install -r requirements.txt
-```
-
 ## Build and Test
 
 TODO: Describe and show how to build your code and run the tests.
